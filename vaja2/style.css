@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.darkGold{
+    background-color: darkgoldenrod;
+    padding-bottom: 2rem;
+}
+
+.green{
+    background-color: green;
+    text-align: right;
+    padding-bottom: 5rem;
+}
+
+.blue{
+    background-color: aqua;
+    height: 20rem;
+    width: 40%;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 60%;
+    height: 20rem;
+}
+
+.full{
+    height: 20rem;
+}
+
+.prvi{
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.stolpec{
+    float:left
+}
+
+.vrstica{
+    clear: left;
+}
+
+.blue>ul{
+    padding-left: 2rem
+}
+
+td,th{
+    border: solid black 1px;
+}
+
+table{
+    border: solid black 0.15rem;
+    height: 10rem;
+    width: 10rem;
+}
+
+.img{
+    height: 29.5rem;
+    width: 10rem;
+    background-color: #faa0a0!important;
+}
+
+img{
+    width: 10rem;
+}

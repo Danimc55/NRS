@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.naslov1 {
+  background-color: aqua;
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+}
+
+.naslov2 {
+  text-align: center;
+  color: blue;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.slikaSole {
+  width: 100px;
+  height: 100px;
+}
+
+a.logo :hover {
+  cursor: progress;
+}
+
+li:nth-of-type(even) {
+  color: red;
+}
+
+table {
+  border: 6px dotted red;
+  border-bottom: 6px dashed red;
+}
+
+th,
+td {
+  border: solid 1px red;
+}
+
+th:nth-of-type(odd) {
+  color: blue;
+  cursor: pointer;
+}
+
+.druga-vrsta:hover {
+  text-align: right;
+}
+
+table:hover > tbody > tr > td[class] {
+  background-color: orange;
+}
