@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.placeholder{
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+}
+
+.stolpec{
+    float: left;
+}
+.vrstica{
+    clear: left;
+}
+
+.is-red{
+    background-color: red;
+}
+
+.is-blue{
+    background-color: blue;
+}
+
+.prvi{
+    width: 30vw;
+    height: 10vh;
+}
+
+.drugi{
+    width: 70vw;
+    height: 10vh;
+}
+
+.cetrti{
+    height: 90vh;
+    width: 30vw;
+    background-color: orange;
+}
+
+.tretji{
+    height: 90vh;
+    width: 70vw;
+}
+
+.is-half{
+    width: 35vw;
+    height: 90vh;
+}
+
+.is-half-height{
+    height: 45vh;
+    width: 35vw;
+}
+
+ul{
+    list-style-type: "|";
+    list-style-position: outside;
+}
+
+li{
+    float:left;
+    margin: 0px 10px;
+}
