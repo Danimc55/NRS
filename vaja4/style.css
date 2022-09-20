@@ -1,0 +1,99 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    clear: left;
+}
+
+.stolpec{
+    float: left;
+}
+
+.vrstica{
+    clear:left;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-cyan{
+    background-color: cyan;
+}
+
+.upper{
+    height: 64vh;
+    width: 100vw;
+}
+
+.bowser{
+    height: 36vh;
+    width: 100vw;
+}
+
+.bowser-image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left-col{
+    width: 15vw;
+    height: 64vh;
+    background-color: chartreuse;
+}
+
+.mid-col{
+    width: 70vw;
+    height: 64vh;
+}
+
+.right-col{
+    width: 15vw;
+    height: 64vh;
+}
+
+.prva{
+    width: 100%;
+    height: 11vh;
+    background-color: blue;
+}
+
+.prva-half{
+    width: 50%;
+    height: 11vh;
+}
+
+.drugi{
+    width: 20%;
+    height: 21vh;
+    background-color: purple;
+}
+
+.tretji{
+    width: 80%;
+    height: 21vh;
+    background-color: greenyellow;
+}
+
+.cetrti{
+    height: 50%;
+    width: 100%;
+    background-color: cyan;
+}
